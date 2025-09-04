@@ -1,0 +1,26 @@
+
+
+
+## 🚀 How to Play
+1. Open the game in your browser.  
+2. Choose ✊ Rock, ✋ Paper, or ✌️ Scissors.  
+3. The computer will randomly select one.  
+4. Results will show instantly along with updated scores.  
+5. Click **Reset** to restart anytime.
+
+
+## 🌐 Deployment
+This project can be easily deployed using:
+- [GitHub Pages](https://pages.github.com/)  
+
+
+
+
+## 🛠️ Tech Stack
+- **HTML5** – Structure  
+- **CSS3** – Styling & Animations  
+- **JavaScript (ES6)** – Game logic  
+
+
+## 📜 License
+This project is open source and available under the **MIT License**.
